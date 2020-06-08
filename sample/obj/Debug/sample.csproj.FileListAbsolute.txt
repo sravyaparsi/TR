@@ -1,0 +1,13 @@
+C:\Users\Sravya_Parsi\source\repos\sample\sample\bin\Debug\sample.xml
+C:\Users\Sravya_Parsi\source\repos\sample\sample\bin\Debug\sample.exe.config
+C:\Users\Sravya_Parsi\source\repos\sample\sample\bin\Debug\sample.exe
+C:\Users\Sravya_Parsi\source\repos\sample\sample\bin\Debug\sample.pdb
+C:\Users\Sravya_Parsi\source\repos\sample\sample\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Sravya_Parsi\source\repos\sample\sample\bin\Debug\System.IO.Packaging.dll
+C:\Users\Sravya_Parsi\source\repos\sample\sample\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Sravya_Parsi\source\repos\sample\sample\bin\Debug\System.IO.Packaging.xml
+C:\Users\Sravya_Parsi\source\repos\sample\sample\obj\Debug\sample.csprojAssemblyReference.cache
+C:\Users\Sravya_Parsi\source\repos\sample\sample\obj\Debug\sample.csproj.CoreCompileInputs.cache
+C:\Users\Sravya_Parsi\source\repos\sample\sample\obj\Debug\sample.csproj.CopyComplete
+C:\Users\Sravya_Parsi\source\repos\sample\sample\obj\Debug\sample.exe
+C:\Users\Sravya_Parsi\source\repos\sample\sample\obj\Debug\sample.pdb

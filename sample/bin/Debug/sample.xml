@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report-template xmlns="http://www.digita.com/AccountsPro/ReportTemplate" name="New report" include-in-numbering="False" include-in-contents="False" include-in-report-map="True" isdir="True" condition="true" enabled="Always" section-name="root" page-break-before="False" keep-with-next-strength="0">
+  <variables />
+  <template>
+    <page-layout>
+    </page-layout>
+  </template>
+  <report-template xmlns="http://www.digita.com/AccountsPro/ReportTemplate" name="Paragraph" include-in-numbering="False" include-in-contents="False" include-in-report-map="False" isdir="False" condition="true" enabled="Always" section-name="9a030bb0-fdaa-48af-b3ec-1c6830fb5da6" page-break-before="False" keep-with-next-strength="0">
+    <variables />
+    <template>
+      <add-to-body>
+        <para smart-tag="new ISmartTag[] { uiHooks.SmartTagFactory.EditParagraph, uiHooks.SmartTagFactory.DeleteParagraph }" width="100%">
+          hello workd
+          <br />
+        </para>
+      </add-to-body>
+    </template>
+  </report-template>
+  <report-template xmlns="http://www.digita.com/AccountsPro/ReportTemplate" name="Paragraph" include-in-numbering="False" include-in-contents="False" include-in-report-map="False" isdir="False" condition="true" enabled="Always" section-name="9d160cc1-a1fc-4353-b737-dff61d8756d1" page-break-before="False" keep-with-next-strength="0">
+    <variables />
+    <template>
+      <add-to-body>
+        <para smart-tag="new ISmartTag[] { uiHooks.SmartTagFactory.EditParagraph, uiHooks.SmartTagFactory.DeleteParagraph }" width="100%">
+          hello world2
+          <br />
+        </para>
+      </add-to-body>
+    </template>
+  </report-template>
+</report-template>
